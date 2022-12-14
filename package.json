@@ -31,7 +31,7 @@
   "dependencies": {
     "axios": "^0.21.1",
     "css-loader": "^5.0.2",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "file-loader": "^6.2.0",
     "node-dev": "^6.3.0",
     "react": "^17.0.1",
